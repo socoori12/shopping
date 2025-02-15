@@ -1,0 +1,27 @@
+[
+    {
+      "id": 1,
+      "title": "캐주얼 티셔츠",
+      "price": "₩25,000",
+      "imageUrl": "/img/top01.jpg"
+    },
+    {
+      "id": 2,
+      "title": "스트라이프 셔츠",
+      "price": "₩35,000",
+      "imageUrl": "/img/top02.jpg"
+    },
+    {
+      "id": 3,
+      "title": "포멀 블라우스",
+      "price": "₩40,000",
+      "imageUrl": "/img/top03.jpg"
+    },
+    {
+      "id": 4,
+      "title": "후드 티",
+      "price": "₩30,000",
+      "imageUrl": "/img/top04.jpg"
+    }
+]
+  
